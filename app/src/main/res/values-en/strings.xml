@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab02</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="app_settings">Application Settings</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="learn_more">Learn more</string>
+    <string name="about">About</string>
+</resources>
